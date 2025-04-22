@@ -6,7 +6,7 @@
 
 A Python-based tool for monitoring and visualizing Airtel 5G router network performance metrics in real-time.
 
-**Author:** [chaud](https://github.com/jeff283) - *Network monitoring enthusiast and developer*
+**Author:** [Jeff](https://github.com/jeff283) - *Network monitoring enthusiast and developer*
 
 **[Visit My GitHub Profile](https://github.com/jeff283) for more useful tools and projects**
 
@@ -114,8 +114,8 @@ metrics = RouterMetrics(base_url="http://your.router.ip")
 If you use this tool in your work or research, please cite:
 
 ```
-@software{chaud_routergraph_2025,
-  author = {chaud},
+@software{jeff_routergraph_2025,
+  author = {Jeff},
   title = {RouterGraph: Real-time Airtel 5G Router Monitoring Tool},
   year = {2025},
   url = {https://github.com/jeff283/RouterGraph}
@@ -131,4 +131,4 @@ This project is open source and available under the MIT License.
 April 23, 2025
 
 ---
-*RouterGraph is developed and maintained by [chaud](https://github.com/jeff283). For issues, feature requests, or contributions, please visit the [GitHub repository](https://github.com/jeff283/RouterGraph).*
+*RouterGraph is developed and maintained by [jeff](https://github.com/jeff283). For issues, feature requests, or contributions, please visit the [GitHub repository](https://github.com/jeff283/RouterGraph).*

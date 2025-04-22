@@ -6,7 +6,7 @@
 
 A Python-based tool for monitoring and visualizing Airtel 5G router network performance metrics in real-time.
 
-**Author:** [Jeff](https://github.com/jeff283) - *Network monitoring enthusiast and developer*
+**Author:** [Jeff](https://github.com/jeff283) - *Sodtware developer*
 
 **[Visit My GitHub Profile](https://github.com/jeff283) for more useful tools and projects**
 
